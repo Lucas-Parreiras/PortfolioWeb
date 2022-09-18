@@ -29,3 +29,38 @@ ul > li:nth-child(5) {
 ul > li:nth-child(6) {
     font-size: 26px;
 }
+
+
+.heading {
+ 
+    width: 90%;
+    margin: auto;
+    display: inline-block;
+
+}
+
+.text-place {
+
+    float: right;
+    display: inline-block;
+    width: 63%;
+    font-size: 18px;
+}
+
+.foto {
+    border-radius: 5%;
+    display: inline-block;
+    width: 33%;
+    background-color: lightyellow;
+    padding: 5px 10px;
+}
+
+.name {
+    
+    text-align: center;
+}
+
+li:nth-child(2n+1) {
+    font-style: italic;
+    font-weight: 800;
+}
