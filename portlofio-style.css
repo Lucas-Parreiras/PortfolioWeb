@@ -1,0 +1,66 @@
+.fontfamily {
+    font-family: Lato;
+}
+
+* {
+    background-color: #C2EFB3;
+}
+
+#foto {
+    border-radius: 50%;
+}
+
+ul > li:nth-child(2) {
+    font-size: 18px;
+}
+
+ul > li:nth-child(3) {
+    font-size: 20px;
+}
+
+ul > li:nth-child(4) {
+    font-size: 22px;
+}
+
+ul > li:nth-child(5) {
+    font-size: 24px;
+}
+
+ul > li:nth-child(6) {
+    font-size: 26px;
+}
+
+
+.heading {
+ 
+    width: 90%;
+    margin: auto;
+    display: inline-block;
+
+}
+
+.text-place {
+
+    float: right;
+    display: inline-block;
+    width: 63%;
+    font-size: 18px;
+}
+
+.foto {
+    border-radius: 5%;
+    display: inline-block;
+    width: 33%;
+    background-color: lightyellow;
+    padding: 5px 10px;
+}
+
+.name {
+    
+    text-align: center;
+}
+
+li:nth-child(2n+1) {
+    font-style: italic;
+    font-weight: 800;
+}
