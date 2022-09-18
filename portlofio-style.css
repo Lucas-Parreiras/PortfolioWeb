@@ -1,0 +1,31 @@
+.fontfamily {
+    font-family: Lato;
+}
+
+* {
+    background-color: #C2EFB3;
+}
+
+#foto {
+    border-radius: 50%;
+}
+
+ul > li:nth-child(2) {
+    font-size: 18px;
+}
+
+ul > li:nth-child(3) {
+    font-size: 20px;
+}
+
+ul > li:nth-child(4) {
+    font-size: 22px;
+}
+
+ul > li:nth-child(5) {
+    font-size: 24px;
+}
+
+ul > li:nth-child(6) {
+    font-size: 26px;
+}
