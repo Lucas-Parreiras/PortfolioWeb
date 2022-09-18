@@ -17,3 +17,12 @@
 - [X] Defina uma cor base de background do seu Portfólio Web;
 - [X] Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
 - [X] Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos;
+
+## Parte 3:
+
+- [X] Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos;
+- [X] A descrição deve ficar ao lado da foto;
+- [X] Centralize seu nome na página;
+- [X] Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página;
+- [X] Adicione margin e padding nos elementos que julgar necessário;
+- [X] Coloque estilo somente nos itens ímpares da lista das suas habilidades.
